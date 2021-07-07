@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(to bottom right, #ff0000, #d10015, #a3031a,#750b19, 
+    #490e14,#360d11,#24090b,#0f0001,#0c0001,#080001,#040001,#000000);
+    background-attachment: fixed;
+    color: seashell;
+}
+ul.dropdown-menu{
+    background-color: #bbb4b46e;
+    color: rgb(17, 7, 7);
+    opacity: 1;
+}
+h1{
+    font-family: cursive;
+    display: inline;
+}
+
+dt{
+    margin-left: 3ch;
+    display: block;
+}
+dd{
+    margin-left: 14ch;
+}
+legend{
+    width: 30%;
+}
